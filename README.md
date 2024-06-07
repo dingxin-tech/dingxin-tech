@@ -40,7 +40,7 @@ Feel free to reach out for collaborations, inquiries, or just a friendly chat. T
 
 Jason @dingxin-tech
 
-[Email Me](mailto:zhangdingxin.zdx@alibaba-inc.com)
+[Email Me](mailto:dx.dragon@foxmail.com)
 
 Happy Coding! 🎉
 
