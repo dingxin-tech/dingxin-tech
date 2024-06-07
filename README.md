@@ -1,6 +1,6 @@
 # Hello, World! I'm Jason @dingxin-tech 👋
 
-Welcome to my GitHub space! As a member of the Alibaba MaxCompute team, I'm dedicated to enriching the MaxCompute ecosystem, helping MC integrate better into the open-source community. 🌐 This account is also where I share a range of tools, my personal learning materials, and various interesting gadgets. My goal through these shares is to enhance the user experience of MaxCompute users and inspire innovation.
+Welcome to my GitHub space! As an user and developer of the Alibaba MaxCompute, I'm dedicated to enriching the MaxCompute ecosystem, helping MC integrate better into the open-source community. 🌐 This account is also where I share a range of tools, my personal learning materials, and various interesting gadgets. My goal through these shares is to enhance the user experience of MaxCompute users and inspire innovation.
 
 ## Committed to Building an Exceptional Ecosystem 🏆
 
@@ -14,7 +14,7 @@ Within Alibaba's vast data cosmos🌌, MaxCompute plays a pivotal role. Thus, my
 
 ## Get in Touch 📬
 
-If you have ideas💡 that can improve the MaxCompute user experience or encounter issues🚧 in use, feel free to contact me anytime. Email me at [zhangdingxin.zdx@alibaba-inc.com](mailto:zhangdingxin.zdx@alibaba-inc.com), and let's work together toward a better MaxCompute environment.
+If you have ideas💡 that can improve the MaxCompute user experience or encounter issues🚧 in use, feel free to contact me anytime. Email me at [dx.dragon@foxmail.com](mailto:dx.dragon@foxmail.com), and let's work together toward a better MaxCompute environment.
 
 ## Join Our Endeavors 🌱
 
